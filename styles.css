@@ -120,7 +120,7 @@ header {
   background-image: url(joanna-kosinska-unsplash.jpg);
   background-size: cover;
   background-position: top right;
-  padding-bottom: 80px;
+  padding-bottom: auto;
 }
 .education p {
   width: 60%;
